@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
         settings.setDomStorageEnabled(true);
         webView.setWebViewClient(new WebViewClient());
 
-        webView.loadUrl("https://6b16bc430cffc5baf3.gradio.live");
+        "https://6b16bc430cffc5baf3.gradio.live";
         setContentView(webView);
     }
 
